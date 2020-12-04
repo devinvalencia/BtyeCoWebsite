@@ -30,6 +30,10 @@ h1, h2 {
 p {
   margin: 10px 0;
 }
+
+img {
+  width: 100%;
+}
 /* end of base style */
 
 /*NavBar*/
@@ -108,7 +112,6 @@ p {
 }
 
 /* Icons */
-
 .icons {
   padding: 30px;
 }
