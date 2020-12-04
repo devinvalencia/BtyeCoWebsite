@@ -5,3 +5,40 @@
 .text-secondary {
   color:blue;
 }
+
+/* Button Framework*/
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px 30px;
+  color: #fff;
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1.0;
+}
+
+.btn-secondary {
+  background: blue;
+  color: #fff;
+}
+
+.btn-dark {
+  background: orange;
+  color: #fff;
+}
+
+.btn-primary {
+  background: #333;
+  color: #fff;
+}
+
+.btn-primary {
+  background: #f4f4f4;
+  color: #fff;
+}
+
